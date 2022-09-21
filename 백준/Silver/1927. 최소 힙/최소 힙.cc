@@ -24,7 +24,7 @@ int main(){
             pq.pop();
         }
         else{
-            cout << "0"<<'\n';
+            cout << 0<<'\n';
         }
 
 
